@@ -1,0 +1,195 @@
+[
+    {
+        "codigo": "TOR001",
+        "marca": "La Hacendosa",
+        "rubros": [
+            "Ferreteria"
+        ],
+        "categorias": [
+            "TORNILLOS"
+        ],
+        "subcategorias": [
+            "FIX DORADOS"
+        ],
+        "descripcion": "TORNILLO FIX DORADO",
+        "detalle": "",
+        "imagenes": [
+            "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp"
+        ],
+        "variantes": [
+            {
+                "sku": "TOR001-22-40-DOR",
+                "stock": 6,
+                "precio_may": 1,
+                "precio_min": 20,
+                "imagen": [
+                    "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp",
+                    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZl4p-JsWOG5zo024MXUIbhdmK3f3-8LFM1Eym-lFiPCqH-azN1jrqd5lQMvP_5SUMWGP6rlbc4bxZNNJe9AxMeRdHCCrUD1XbiMBovf3Rk-HyRrt3G1z5l0U",
+                    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZl4p-JsWOG5zo024MXUIbhdmK3f3-8LFM1Eym-lFiPCqH-azN1jrqd5lQMvP_5SUMWGP6rlbc4bxZNNJe9AxMeRdHCCrUD1XbiMBovf3Rk-HyRrt3G1z5l0U",
+                    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZl4p-JsWOG5zo024MXUIbhdmK3f3-8LFM1Eym-lFiPCqH-azN1jrqd5lQMvP_5SUMWGP6rlbc4bxZNNJe9AxMeRdHCCrUD1XbiMBovf3Rk-HyRrt3G1z5l0U"
+                ],
+                "estado": "NUEVO",
+                "atributos": {
+                    "medida": "22",
+                    "largo": "40"
+                }
+            },
+            {
+                "sku": "TOR001-20-50-DOR",
+                "stock": 10,
+                "precio_may": 1.5,
+                "precio_min": 22,
+                "imagen": [
+                    "https://http2.mlstatic.com/D_NQ_NP_2X_818404-MLA114293278049_072026-F.webp"
+                ],
+                "estado": "NUEVO",
+                "atributos": {
+                    "medida": "20",
+                    "largo": "50"
+                }
+            }
+        ]
+    },
+    {
+        "codigo": "ZAP001",
+        "marca": "Adidas",
+        "rubros": [
+            "Textil"
+        ],
+        "categorias": [
+            "ZAPATILLAS"
+        ],
+        "subcategorias": [
+            "RUNNING"
+        ],
+        "descripcion": "ZAPATILLA RUNNING",
+        "detalle": "",
+        "imagenes": [],
+        "variantes": [
+            {
+                "sku": "ZAP001-40-NGO",
+                "stock": 0,
+                "precio_may": 200,
+                "precio_min": 300000,
+                "imagen": [],
+                "estado": "NUEVO",
+                "atributos": {
+                    "color": {
+                        "nombre": "CROMADO",
+                        "hex": "#1A1A1A",
+                        "imagen": [
+                            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZl4p-JsWOG5zo024MXUIbhdmK3f3-8LFM1Eym-lFiPCqH-azN1jrqd5lQMvP_5SUMWGP6rlbc4bxZNNJe9AxMeRdHCCrUD1XbiMBovf3Rk-HyRrt3G1z5l0U"
+                        ]
+                    },
+                    "talle": "40"
+                }
+            },
+            {
+                "sku": "ZAP001-42-BCO",
+                "stock": 3,
+                "precio_may": 200,
+                "precio_min": 500,
+                "imagen": [],
+                "estado": "NUEVO",
+                "atributos": {
+                    "color": {
+                        "nombre": "BLANCO",
+                        "hex": "#FFFFFF",
+                        "imagen": [
+                            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThpDlZu0RPoVGDiKTxWJjEqrkORR0bKBbVHn8AFJMmfEqF4sq7dJZuiBui1ph77EwV1RBM_8s4NI0L2VMp2pEyUnfa4Ivf5nf7I_--_hQ3bnOaBrTo30QcGA"
+                        ]
+                    },
+                    "talle": "42"
+                }
+            }
+        ]
+    },
+    {
+        "codigo": "CON001",
+        "marca": "Grove",
+        "rubros": [
+            "Ferreteria"
+        ],
+        "categorias": [
+            "CONEXION"
+        ],
+        "subcategorias": [
+            "INODORO"
+        ],
+        "descripcion": "CONEXIÓN PVC INODORO CORTO",
+        "detalle": "AMARILLO",
+        "imagenes": [
+            "https://www.deplano.com.ar/12566-thickbox_default/conexion-fuelle-pinod-deca-piazza-40-4.jpg"
+        ],
+        "variantes": [
+            {
+                "sku": "CON001",
+                "stock": 10,
+                "precio_may": 44,
+                "precio_min": 900000,
+                "imagen": [
+                    "https://www.deplano.com.ar/12566-thickbox_default/conexion-fuelle-pinod-deca-piazza-40-4.jpg"
+                ],
+                "estado": "USADO",
+                "atributos": {}
+            }
+        ]
+    },
+    {
+        "codigo": "REM001",
+        "marca": "Nike",
+        "rubros": [
+            "Textil"
+        ],
+        "categorias": [
+            "REMERA"
+        ],
+        "subcategorias": [
+            "MANGA CORTA"
+        ],
+        "descripcion": "REMERA BASICA ",
+        "detalle": "",
+        "imagenes": [],
+        "variantes": [
+            {
+                "sku": "REM001-M-NGO",
+                "stock": 4,
+                "precio_may": 100,
+                "precio_min": 50000,
+                "imagen": [],
+                "estado": "NUEVO",
+                "atributos": {
+                    "color": {
+                        "nombre": "NEGRO",
+                        "hex": "#1A1A1A",
+                        "imagen": [
+                            "https://acdn-us.mitiendanube.com/stores/001/110/871/products/remera-negra1-452b80430955b44d1a16097721609389-1024-1024.webp"
+                        ]
+                    },
+                    "talle": "M"
+                }
+            },
+            {
+                "sku": "REM001-M-BCO",
+                "stock": 1,
+                "precio_may": 100,
+                "precio_min": 120,
+                "imagen": [],
+                "estado": "NUEVO",
+                "atributos": {
+                    "color": {
+                        "nombre": "BLANCO",
+                        "hex": "#FFFFFF",
+                        "imagen": [
+                            "https://acdn-us.mitiendanube.com/stores/002/215/740/products/ro-blanca-9ba236625524798bee17413021562281-1024-1024.webp"
+                        ]
+                    },
+                    "talle": "M"
+                }
+            }
+        ]
+    }
+]
